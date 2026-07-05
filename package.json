@@ -1,0 +1,15 @@
+{
+  "name": "kostputri-pwa",
+  "version": "1.0.0",
+  "description": "Progressive Web App (PWA) KostPutri dengan nuansa Pink Aesthetic",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
